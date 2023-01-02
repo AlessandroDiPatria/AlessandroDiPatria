@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlessandroDiPatria from Italy! ☕
-- 👀 I’m interested in Computer Science, Cryptocurrency and Eletronic Music.
+- 👀 I'm Software Developer interested in Web Developing and DataScience.
 - 🌱 I’m currently attending master in Computer Science at Sapienza University.
 - 💞️ I’m looking to collaborate with new teams and company.
 - 📫 How to reach me : dipatria.business@gmail.com
