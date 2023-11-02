@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @AlessandroDiPatria from Italy! ☕
-- 👀 I'm Software Developer interested in Web Developing and DataScience.
-- 🌱 I’m currently attending master in Computer Science at Sapienza University.
+- 👀 I'm Software Developer interested in Web Developing and machine learning.
+- 🌱 I have a master's degree in computer science with a grade of 110/110 cum laude
 - 💞️ I’m looking to collaborate with new teams and company.
 - 📫 How to reach me : dipatria.business@gmail.com
 
-<!---
-AlessandroDiPatria/AlessandroDiPatria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes --->
